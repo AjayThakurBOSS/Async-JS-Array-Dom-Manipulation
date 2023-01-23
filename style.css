@@ -1,0 +1,14 @@
+html {
+    margin: 0;
+    padding: 0;
+    /* background: -webkit-gradient(linear, left top, left bottom, from(darkgrey), to(darkred)) fixed; */
+    background: -webkit-gradient(linear, left bottom, left top, from(darkgrey), to(darkred)) fixed;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
